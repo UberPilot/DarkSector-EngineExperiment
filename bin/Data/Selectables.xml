@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selectables>
+<weapons>
+	<weapon>
+		<debugid>wmicrocannons1</debugid>
+		<name>Microcannon</name>
+		<size>Compacted</size>
+		<variant>Standard</variant>
+		<version>1</version>
+		<rarity>Common</rarity>
+		<mass>200</mass>
+		<damage>5</damage>
+		<sps>2</sps>
+		<piercing>2</piercing>
+		<type>Standard</type>
+		<subtype>Bullet</subtype>
+		<acceleration>0</acceleration>
+		<ivelocity>200</ivelocity>
+		<price>2</price>
+		<description>A basic weapon used for ship-to-ship combat. It can damage both shields and physical armor. A fast rate of fire and good damage for smaller ships.</description>
+	</weapon>
+	<weapon>
+		<debugid>wmicrocannons2</debugid>
+		<name>Microcannon</name>
+		<size>Compacted</size>
+		<variant>Standard</variant>
+		<version>2</version>
+		<rarity>Common</rarity>
+		<mass>220</mass>
+		<damage>7</damage>
+		<sps>2</sps>
+		<piercing>3</piercing>
+		<type>Standard</type>
+		<subtype>Bullet</subtype>
+		<acceleration>0</acceleration>
+		<ivelocity>225</ivelocity>
+		<price>4</price>
+		<description>An improved version of the standard Microcannon. A fast rate of fire and good damage for smaller ships makes this a good starting weapon.</description>
+	</weapon>
+	<weapon>
+		<debugid>wplasmalaunchers1</debugid>
+		<name>Plasma Launcher</name>
+		<size>Compacted</size>
+		<variant>Standard</variant>
+		<version>1</version>
+		<rarity>Common</rarity>
+		<mass>250</mass>
+		<damage>12</damage>
+		<sps>1</sps>
+		<piercing>2</piercing>
+		<type>Plasma</type>
+		<subtype>Standard</subtype>
+		<acceleration>0</acceleration>
+		<ivelocity>200</ivelocity>
+		<price>5</price>
+		<description>The most basic plasma weaponry. This type of weapon can easily melt through physical armor, but struggles with shields.</description>
+	</weapon>
+</weapons>
+<armors>
+	<armor>
+		<debugid>at1plating</debugid>
+		<name>Astrosteel Plating</name>
+		<type>Physical</type>
+		<fit>Fighter-A, Fighter-B, Fighter-C, Fighter-D</fit>
+		<subtype>Static</subtype>
+		<rarity>Common</rarity>
+		<bDurability>1000</bDurability>
+		<resistance>3</resistance>
+		<hardness>1</hardness>
+		<mass>500</mass>
+		<price>5</price>
+		<description>Basic plating, it reduces damage and blocks piercing.</description>
+	</armor>
+	<armor>
+		<debugid>at1paneling</debugid>
+		<name>Astrosteel Paneling</name>
+		<type>Physical</type>
+		<fit>Fighter-A, Fighter-B, Fighter-C, Fighter-D</fit>
+		<subtype>Static</subtype>
+		<rarity>Common</rarity>
+		<bDurability>750</bDurability>
+		<resistance>2</resistance>
+		<hardness>1</hardness>
+		<mass>450</mass>
+		<price>3</price>
+		<description>A cheaper alternative to Astrosteel Plating, it reduces damage and blocks piercing.</description>
+	</armor>
+</armors>
+</selectables>
